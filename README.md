@@ -117,6 +117,7 @@
 
 ---
 ### Real Apps
+* [Minesweeper](https://alex-cory.github.io/mine-sweeper/) - Sexy minesweeper game built with styled-components and mobx.
 * [GitPoint](https://gitpoint.co/) - GitPoint is the most feature-rich unofficial GitHub client that is 100% free.
 * [en.kachkaev.ru](https://en.kachkaev.ru) - Personal homepage built with [next.js](https://github.com/zeit/next.js); also uses GraphQL, Docker, CI and microservice architecture ([source on GitLab](https://gitlab.com/kachkaev/website)).
 * [WutTheLint](https://wuththelint.now.sh) - Searchable catalog of linters.
